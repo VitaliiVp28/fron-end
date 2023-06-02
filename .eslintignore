@@ -1,5 +1,6 @@
 *dist
 *node_modules
+*homeworks-without-lint
 *webpack.config.js
 *webpack.config.dev.js
 **/6-typescript/

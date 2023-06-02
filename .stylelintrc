@@ -105,6 +105,7 @@
   },
   "ignoreFiles": [
     "./homeworks/**/dist/**/*",
-    "./homeworks/**/node_modules/**/*"
+    "./homeworks/**/node_modules/**/*",
+    "./homeworks-without-lint/**"
   ]
 }
